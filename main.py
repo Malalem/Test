@@ -5,3 +5,5 @@ elif len(name)>50:
     print("name can br a maximum of 50 characters")
 else:
     print("looks Gucci")
+    
+    print("This is from github")
